@@ -1,0 +1,10 @@
+[ALERT] Brute-force attempt detected from IP: 192.168.1.23
+[ALERT] Brute-force attempt detected from IP: 192.168.1.23
+[ALERT] Brute-force attempt detected from IP: 192.168.1.23
+[ALERT] Brute-force attempt detected from IP: 185.199.110.12
+[ALERT] Suspicious login success from 185.199.110.12
+[ALERT] Unauthorized sudo attempt detected.
+[ALERT] Brute-force attempt detected from IP: 103.23.12.55
+[ALERT] New user creation found: Jan 12 04:00:22 server useradd[3033]: new user hacker created
+[ALERT] Suspicious root cron job execution detected.
+[ALERT] Possible PORT SCAN detected from IP: 45.122.88.12
